@@ -4,7 +4,7 @@ public class Hello {
 	
 	public void say (){
 		
-		System.out.printin("hello world")
+		System.out.printin("안녕하세요");
 	}
 	
 
