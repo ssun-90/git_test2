@@ -1,0 +1,11 @@
+package git_test2;
+
+public class Hello {
+	
+	public void say (){
+		
+		System.out.printin("hello world")
+	}
+	
+
+}
